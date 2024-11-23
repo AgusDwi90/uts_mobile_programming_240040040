@@ -4,7 +4,7 @@
 - Kls    : CA224
 - Topik  : Data Tumbuhan
 # Fitur APP 
-- Menampilkan Data ( Sementara baru berhasil tampil di Web Console )
+- Menampilkan Data ( Sementara data yang ditambahkan baru berhasil tampil di Web Console )
 - Menambahkan Data
 - Menyimpan Data
 - Mengedit Data
